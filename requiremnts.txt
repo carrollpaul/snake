@@ -1,0 +1,9 @@
+colorama==0.4.4
+commonmark==0.9.1
+goodlogging==1.0.1
+pygame==2.0.0
+Pygments==2.7.3
+rarfile==2.7
+requests==2.6.0
+rich==9.5.1
+typing-extensions==3.7.4.3
